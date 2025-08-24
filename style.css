@@ -1,0 +1,44 @@
+
+.container{
+
+    
+    background-color: aqua;
+    width:300px;
+    height: 100px;
+    padding:20px;
+    border:black;
+    border:1px solid black;
+    margin:20px;
+    
+    
+
+    /* padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left:10px; */
+
+    /* padding: 0px; */
+    
+
+    /* border-top: 10px;
+    border-bottom: 10px;
+    border-style: solid; */
+
+    
+    
+
+    /* margin-top: 10px ;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    
+
+    /* margin:0px;
+     */
+
+}
+
+.div{
+    display: block;
+    unicode-bidi: isolate;
+}
